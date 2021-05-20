@@ -6,6 +6,6 @@
     3. Computer Vision
     4. Natural Language Processing
     
-### My area of interest is NLP. It is a vast and varied field with much development in recent years. But it still has much more potential
+    
 
 
