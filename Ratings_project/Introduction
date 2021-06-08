@@ -1,0 +1,8 @@
+Prediction of Ratings from Product Reviews
+
+1. We have scraped Electronics Product Reviews from 2 most used websites: Amazon and Flipkart (Using Selenium webdriver)
+2. Then we performed Text modelling using Latent Dirichlet Allocation
+3. We will train a traditional Machine Learning model using scikit-learn
+4. We will train a LSTM model with normal Embedding layer
+5. We will finally look at HuggingFace Transformers library
+
